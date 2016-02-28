@@ -1,0 +1,4 @@
+1) Completed the coding for the project.
+2) Junit completed for ScoreCalculator and Dice.
+3) I could implement only for a single user.
+4) The UI display is on the console. Didnt get time to do the Jsp
